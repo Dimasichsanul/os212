@@ -1,0 +1,50 @@
+version:     "001--05-Sep-2021"
+copyright:   "2021-2021"
+description:
+  This is a
+  OS212 GitHub Page 
+disclaimer:
+  I have spoken.
+keywords:    "jekyll, testing"
+navbarlinks:
+- navbar:    "Home"
+  link:      "/"
+- navbar:    "Links"
+  link:      "/LINKS/"
+- navbar:    "Tips"
+  link:      "/TIPS/"
+- navbar:    "Zip File"
+  link:      "/template.zip"
+- navbar:    "TarBall"
+  link:      "/template.tar.bz2"
+- navbar:    "GitHub"
+  link:      "https://github.com/Dimasichsanul/os212"
+- navbar:    "Listing"
+  link:      "/000.html"
+- navbar:    "About"
+  link:      "/ABOUT/"
+- navbar:    "GitHub Page"
+  link:      "https://dimasichsanul.github.io/os212/"
+title:       "Dimas Ichsanul's OS212 Github Page"
+lang:        "en-US"
+author:      "Dimas Ichsanul Arifin"
+address:     "Depok"
+sitemap:     "true"
+markdown:    "kramdown"
+defaults:
+- scope:
+    path:    ""
+  values:
+    layout:  "default"
+github:
+- metadata
+plugins:
+- jekyll-sitemap
+- jekyll-seo-tag
+google_analytics: "UA-89852122-15"
+
+urlweb:           "https://dimasichsanul.github.io/os212/"
+urlcontact:       "TBA"
+urlgithub:        "https://github.com/Dimasichsanul/os212"
+
+
