@@ -12,3 +12,13 @@ ZCZC W00 05 L06 Download Operating System Concepts Tenth Edition's slides
 ZCZC W00 35 L32 YouTube: study Operating Systems: Visual Metaphor (Udacity)
 ZCZC W00 13 L32 YouTube: Operating Systems: Crash Course Computer Science #18 (Crash Course)
 ZCZC W00 05 L32 YouTube: 25 years of Linux in 5 minutes (Opensource.com)
+ZCZC W01 100 L02 ZOOM class (Monday)
+ZCZC W01 60 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 120 L08 AsDos: assistance, asking, etc.
+ZCZC W01 40 L11 Assignment #01
+ZCZC W01 80 L12 Assignment #02
+ZCZC W01 100 L02 ZOOM class (Thursday)
+ZCZC W01 90 L08 AsDos: assistance, askin, etc
+ZCZC W01 50 L13 Assignment #03
+ZCZC W01 60 L14 Assignment #04
+ZCZC W01 20 L15 Assignment #05
