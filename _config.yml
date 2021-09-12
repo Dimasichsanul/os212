@@ -9,6 +9,8 @@ keywords:    "jekyll, testing"
 navbarlinks:
 - navbar:    "Home"
   link:      "/"
+- navbar:    "My Log"
+  link:      "/TXT/mylog.txt"
 - navbar:    "Links"
   link:      "/LINKS/"
 - navbar:    "Tips"

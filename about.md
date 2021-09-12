@@ -4,8 +4,8 @@ permalink: /ABOUT/
 
 # About
 
-This is a GitHub Page template on GitHub.
-Fill free to clone/fork/hijack/whatever it!
+This is a OS212's Dimas Ichsanul's GitHub Page.
+
 
 <br>
 # More Information
