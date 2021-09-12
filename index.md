@@ -2,27 +2,22 @@
 ---
 
 <br>
-This [GitHub Page](https://pages.github.com/) is hosted at [GitHub.com]({{ site.urlgithub }}).
-You can download the source either as a
-[ZIP]({{ site.baseurl }}/template.zip) file or a
-[TARBALL]({{ site.baseurl }}/template.tar.bz2) file.
-File [LISTINGS]({{ site.baseurl }}/000.html) are also available.
+This is a OS212's Dimas Ichsanul's GitHub Page.
 
 I am {{ site.author }}, {{ site.address }}
 
 <br>
-## Table Example
-
-| [HOME]({{ site.baseurl }}/) | [My Log]({{ site.baseurl }}/TXT/mylog.txt) | [LINKS]({{ site.baseurl }}/LINKS/) |
-| [TIPS]({{ site.baseurl }}/TIPS/) | [TARBALL]({{ site.baseurl }}/template.tar.bz2) | [LISTINGS]({{ site.baseurl }}/000.html) |
-| [GitHub]({{ site.urlgithub }}) | [ABOUT]({{ site.baseurl }}/ABOUT/) | [WEB]({{ site.urlweb }}) |
-
-<br>
-## More Links
+## Priority Links
 
 * [GitHub]({{ site.urlgithub }})
 * [My Log]({{ site.baseurl }}/TXT/mylog.txt)
 * [Links]({{ site.baseurl }}/LINKS/)
+
+<br>
+## More Links
+
+| [GitHub]({{ site.urlgithub }})) | [TARBALL]({{ site.baseurl }}/template.tar.bz2) | [LISTINGS]({{ site.baseurl }}/000.html) |
+| [TIPS]({{ site.baseurl }}/TIPS/ | [ABOUT]({{ site.baseurl }}/ABOUT/) | [Template Zip File]({{ site.baseurl }}/template.zip) |
 
 <br>
 ## Source Code
