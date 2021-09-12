@@ -16,7 +16,7 @@ I am {{ site.author }}, {{ site.address }}
 <br>
 ## More Links
 
-| [GitHub]({{ site.urlgithub }})) | [TARBALL]({{ site.baseurl }}/template.tar.bz2) | [LISTINGS]({{ site.baseurl }}/000.html) |
+| [GitHub]({{ site.urlgithub }}) | [TARBALL]({{ site.baseurl }}/template.tar.bz2) | [LISTINGS]({{ site.baseurl }}/000.html) |
 | [TIPS]({{ site.baseurl }}/TIPS/) | [ABOUT]({{ site.baseurl }}/ABOUT/) | [Template Zip File]({{ site.baseurl }}/template.zip) |
 
 <br>
