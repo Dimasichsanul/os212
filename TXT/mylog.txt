@@ -22,3 +22,8 @@ ZCZC W01 90 L08 AsDos: assistance, askin, etc
 ZCZC W01 50 L13 Assignment #03
 ZCZC W01 60 L14 Assignment #04
 ZCZC W01 20 L15 Assignment #05
+ZCZC W01 20 L16 Assignment #06
+ZCZC W01 20 L32 Youtube: Markdown Tutorial #TutorAfterNgantor (Lintang Wasesa)
+ZCZC W01 05 L17 Assignment #07
+ZCZC W01 20 L32 Youtube: Learning Awk Is Essential For Linux Users (DistroTube)
+ZCZC W01 20 L32 Youtube: Learning Sed Is Beneficial For Linux Users (DistroTube)
