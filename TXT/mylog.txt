@@ -27,3 +27,5 @@ ZCZC W01 20 L32 Youtube: Markdown Tutorial #TutorAfterNgantor (Lintang Wasesa)
 ZCZC W01 05 L17 Assignment #07
 ZCZC W01 20 L32 Youtube: Learning Awk Is Essential For Linux Users (DistroTube)
 ZCZC W01 20 L32 Youtube: Learning Sed Is Beneficial For Linux Users (DistroTube)
+ZCZC W01 40 L18 Assignment #08
+ZCZC W01 45 L19 Assignment #09
