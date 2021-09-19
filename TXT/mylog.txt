@@ -29,3 +29,7 @@ ZCZC W01 20 L32 Youtube: Learning Awk Is Essential For Linux Users (DistroTube)
 ZCZC W01 20 L32 Youtube: Learning Sed Is Beneficial For Linux Users (DistroTube)
 ZCZC W01 40 L18 Assignment #08
 ZCZC W01 45 L19 Assignment #09
+ZCZC W02 100 L02 ZOOM class (Monday)
+ZCZC W02 30 L09 Assignment in General (Generating a GnuPG KEY PAIR until Export My Public Key)
+ZCZC W02 100 L02 ZOOM class (Thursday)
+ZCZC W02 127 L13 Assignment #03 Watch Cyber Security Introduction part 1
