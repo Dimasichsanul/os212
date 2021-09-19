@@ -20,7 +20,7 @@ navbarlinks:
 - navbar:    "Tips"
   link:      "/TIPS/"
 - navbar:    "TarBall"
-  link:      "/template.tar.bz2"
+  link:      "https://os.vlsm.org/Log/Dimasichsanul.tar.bz2.txt"
 - navbar:    "Listing"
   link:      "/000.html"
 - navbar:    "About"
