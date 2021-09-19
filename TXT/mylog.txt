@@ -33,3 +33,8 @@ ZCZC W02 100 L02 ZOOM class (Monday)
 ZCZC W02 30 L09 Assignment in General (Generating a GnuPG KEY PAIR until Export My Public Key)
 ZCZC W02 100 L02 ZOOM class (Thursday)
 ZCZC W02 127 L13 Assignment #03 Watch Cyber Security Introduction part 1
+ZCZC W02 30 L09 Assignment in General (Update your bookmark links and Review your peer links)
+ZCZC W02 10 L09 Assignment in General (Write a simple "myscript.sh" script)
+ZCZC W02 146 L13 Assignment #03 the begining of part 2
+ZCZC W02 60 L11 Assignment #01
+ZCZC W02 60 L12 Assignment #02
