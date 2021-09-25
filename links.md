@@ -13,4 +13,9 @@ permalink: /LINKS/
 # Week 2
 1. [The Different between SHA1, SHA2, SHA 256](https://sslindonesia.com/perbedaan-sha-1-sha-2-sha-256/)<br> An article that explains the different between SHA1, SHA2, SHA 256. <br>
 2. [How to Use GNU Privacy Guard (GnuPG/GPG)](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91)<br> It's an article about GnuPG tutorial in Indonesian. <br>
-3. [Cyber Security (Silicon Dojo Series)](https://youtube.com/playlist?list=PLJcaPjxegjBXtpdrZ4Blxgo-juMUfFovf)<br> It's a video playlist about Cyber Security from Eli the Computer Guy. You won't be bored because Eli has a lot of Jokes for you while he explain Cyber Security :D.
+3. [Cyber Security (Silicon Dojo Series)](https://youtube.com/playlist?list=PLJcaPjxegjBXtpdrZ4Blxgo-juMUfFovf)<br> It's a video playlist about Cyber Security from Eli the Computer Guy. You won't be bored because Eli has a lot of Jokes for you while he explain Cyber Security :D. <br>
+
+# Week 3
+1. [Files & File Systems: Crash Course Computer Science #20](https://youtu.be/KN8YgJnShPM)<br> This is a 12 minute Video that explains this week material briefly. The host, Carrie Anne, is so energic so you won't be sleepy <br>
+2. [The Ultimate Tar Command Tutorial with 10 Practical Examples](https://www.thegeekstuff.com/2010/04/unix-tar-command-examples/)<br> This article explains and gives example about Tar Command precisely. It helps me understanding W03 demos. <br>
+3. [Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw)<br> A Youtube video about Linux File Systems and it's structure. This video explains what all the folders are for, and what is in them! <br>
