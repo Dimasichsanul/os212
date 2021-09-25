@@ -38,3 +38,17 @@ ZCZC W02 10 L09 Assignment in General (Write a simple "myscript.sh" script)
 ZCZC W02 146 L13 Assignment #03 the begining of part 2
 ZCZC W02 60 L11 Assignment #01
 ZCZC W02 60 L12 Assignment #02
+ZCZC W03 100 L02 ZOOM class (Monday)
+ZCZC W03 70 L02 ZOOM class (Thursday)
+ZCZC W03 12 L32 Youtube: Files & File Systems: Crash Course Computer Science #20(CrashCourse)
+ZCZC W03 90 L11 Assignment #01
+ZCZC W03 60 L12 Assignment #02
+ZCZC W03 10 L06 GSGS about Tar Command
+ZCZC W03 60 L13 Assignment #03
+ZCZC W03 5 L14 Assignment #04
+ZCZC W03 15 L15 Assignment #05
+ZCZC W03 16 L32 Youtube: Linux File System/Structure Explained! (DorianDotSlash)
+ZCZC W03 10 L16 Assignment #06
+ZCZC W03 15 L17 Assignment #07
+ZCZC W03 5 L18 Assignment #08
+ZCZC W03 10 L19 Assignment #09
