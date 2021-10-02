@@ -52,3 +52,18 @@ ZCZC W03 10 L16 Assignment #06
 ZCZC W03 15 L17 Assignment #07
 ZCZC W03 5 L18 Assignment #08
 ZCZC W03 10 L19 Assignment #09
+ZCZC W04 100 L02 ZOOM class (Monday)
+ZCZC W04 10 L14 Assignment #04
+ZCZC W04 10 L15 Assignment #05
+ZCZC W04 10 L16 Assignment #06
+ZCZC W04 15 L17 Assignment #07
+ZCZC W04 100 L02 ZOOM class (Thursday)
+ZCZC W04 30 L06 GSGS about Question on forum
+ZCZC W04 3 L32 Youtube: Operating System - Contiguous Allocation Method (Arif Abdullah)
+ZCZC W04 11 L32 Youtube: Pointers (Important Questions) (Neso Academy)
+ZCZC W04 90 L11 Assignment #01
+ZCZC W04 60 L12 Assignment #02
+ZCZC W04 60 L13 Assignment #03
+ZCZC W04 8 L32 Youtube: Logical vs Physical address space | OS | Lec-32 | Bhanu Priya (Education 4u)
+ZCZC W04 8 L18 Assignment #08
+ZCZC W04 5 L19 Assignment #09
