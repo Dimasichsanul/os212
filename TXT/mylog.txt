@@ -67,3 +67,15 @@ ZCZC W04 60 L13 Assignment #03
 ZCZC W04 8 L32 Youtube: Logical vs Physical address space | OS | Lec-32 | Bhanu Priya (Education 4u)
 ZCZC W04 8 L18 Assignment #08
 ZCZC W04 5 L19 Assignment #09
+ZCZC W05 100 L01 Zoom meetings class
+ZCZC W05 90 L11 Assignment #01
+ZCZC W05 100 L12 Assignment #02
+ZCZC W05 60 L13 Assignment #03
+ZCZC W05 30 L14 Assignment #04
+ZCZC W05 100 L01 Zoom meetings class
+ZCZC W05 120 L32 Youtube: Virtual Memory (David Black-Schaffer)
+ZCZC W05 20 L15 Assignment #05
+ZCZC W05 15 L16 Assignment #06
+ZCZC W05 15 L17 Assignment #07
+ZCZC W05 10 L18 Assignment #08
+ZCZC W05 5 L19 Assignment #09

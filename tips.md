@@ -4,18 +4,8 @@ permalink: /TIPS/
 
 # TIPS
 
-4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
-I love sugar plum brownie tart apple pie macaroon.
-Donut wafer dragée pudding.
+1. [Find Youtube Playlist about WeekXX's Lesson]<br>
+It will really help you especially when you can't easily understand lesson from slides.
 
-5. [Five](https://en.wikipedia.org/wiki/5)<br>
-Soufflé I love gingerbread marshmallow cake I love applicake.
-Sugar plum I love jelly beans powder jelly beans.
-Ice cream ice cream cupcake liquorice I love.
-
-6. [Six](https://en.wikipedia.org/wiki/6)<br>
-Pastry sweet roll applicake bear claw donut sweet roll.
-Chocolate carrot cake I love sesame snaps.
-Pudding pudding chocolate cake croissant donut pastry pie cupcake cookie.
-
+2. [Ask Teaching Assistant]<br>
+Whenever you stuck with something even after GSGS, just ask Teaching Assistant. They will help you. They are very nice people :D.

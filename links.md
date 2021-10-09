@@ -23,4 +23,9 @@ permalink: /LINKS/
 # Week 4
 1. [Dynamic Memory Allocation in C using malloc(), calloc(), free() and realloc()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) <br> This article explains malloc(), calloc(), free(), and realloc(). It helps me to answer Mr. Rahmat's question on forum :D <br>
 2. [Pointers (Important Questions)](https://youtu.be/cEphEIMaqms) <br> This video explains set of important questions based on the basics of pointers in C. You won't be bored when watch this video because it has Indian accent :D <br>
-3. [Difference between Paging and Swapping in OS](https://youtu.be/HbgzrKJvDRw) <br> I tried to GSGS about "paging" after Monday Zoom session and found this interesting article. It's also has relation with swap partition that we created when we install Debian on Virtual Box. <br>
+3. [Difference between Paging and Swapping in OS](https://youtu.be/HbgzrKJvDRw) <br> I tried to GSGS about "paging" after Monday Zoom session and found this interesting article. It's also has relation with swap partition that we created when we install Debian on Virtual Box. <br> 
+
+# Week 5
+1. [Virtual Memory Playlist](https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX) <br> It's a Youtube Video Playlist that explains about Virtual Memory. It really help me to understand more things in this week's lesson <br>
+2. [FAQ About Swap](https://help.ubuntu.com/community/SwapFaq) <br> Having some questions for swap? It's a page from Ubuntu to help you. <br>
+3. [What is a Paging File or Pagefile as Fast As Possible](https://youtu.be/1VDP5TCAK2c) <br> A paging file is an overflow for your RAM or system memory. This video explains what that means and how to optimize it. <br>
