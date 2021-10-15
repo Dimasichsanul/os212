@@ -29,3 +29,8 @@ permalink: /LINKS/
 1. [Virtual Memory Playlist](https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX) <br> It's a Youtube Video Playlist that explains about Virtual Memory. It really help me to understand more things in this week's lesson <br>
 2. [FAQ About Swap](https://help.ubuntu.com/community/SwapFaq) <br> Having some questions for swap? It's a page from Ubuntu to help you. <br>
 3. [What is a Paging File or Pagefile as Fast As Possible](https://youtu.be/1VDP5TCAK2c) <br> A paging file is an overflow for your RAM or system memory. This video explains what that means and how to optimize it. <br>
+
+# Week 6
+1. [Unix Processes in C](https://youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) <br> It's a Youtube Video Playlist that explains about Unix Processes in C. It really help me to understand more things in this week's lesson <br>
+2. [Multithreading Models in Operating System](https://binaryterms.com/multithreading-models-in-operating-system.html) <br> Multithreading Models in Operating System exhibit the ways of mapping the user threads to the kernel threads. On this site, we will learn about the three multithreading models: Many to One model, One to One model and Many to Many model. <br>
+3. [Difference Between Process and Thread - Georgia Tech - Advanced Operating Systems](https://www.youtube.com/watch?v=O3EyzlZxx3g) <br> A Youtube video that explain difference between process and thread . It suitable for beginner because it explain it precisely. <br>

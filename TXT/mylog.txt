@@ -79,3 +79,17 @@ ZCZC W05 15 L16 Assignment #06
 ZCZC W05 15 L17 Assignment #07
 ZCZC W05 10 L18 Assignment #08
 ZCZC W05 5 L19 Assignment #09
+ZCZC W06 80 L32 Youtube: OS Week06 (M. Anwar Ma'sum)
+ZCZC W06 98 L32 Youtube: Week09: Process & Concurrency [Recording] (M. Anwar Ma'sum)
+ZCZC W06 100 L01 ZOOM class (Thusrday)
+ZCZC W06 90 L11 Assignment #01
+ZCZC W06 90 L12 Assignment #02
+ZCZC W06 60 L13 Assignment #03
+ZCZC W06 30 L14 Assignment #04
+ZCZC W06 4 L32 Youtube: Difference Between Process and Thread - Georgia Tech - Advanced Operating Systems (Udacity)
+ZCZC W06 120 L32 Youtube: Unix Processes in C (CodeVault)
+ZCZC W06 20 L15 Assignment #05
+ZCZC W06 20 L16 Assignment #06
+ZCZC W06 10 L17 Assignment #07
+ZCZC W06 15 L18 Assignment #08
+ZCZC W06 5 L19 Assignment #09
