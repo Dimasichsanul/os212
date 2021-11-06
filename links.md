@@ -34,3 +34,9 @@ permalink: /LINKS/
 1. [Unix Processes in C](https://youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) <br> It's a Youtube Video Playlist that explains about Unix Processes in C. It really help me to understand more things in this week's lesson <br>
 2. [Multithreading Models in Operating System](https://binaryterms.com/multithreading-models-in-operating-system.html) <br> Multithreading Models in Operating System exhibit the ways of mapping the user threads to the kernel threads. On this site, we will learn about the three multithreading models: Many to One model, One to One model and Many to Many model. <br>
 3. [Difference Between Process and Thread - Georgia Tech - Advanced Operating Systems](https://www.youtube.com/watch?v=O3EyzlZxx3g) <br> A Youtube video that explain difference between process and thread . It suitable for beginner because it explain it precisely. <br>
+
+# Week 7
+1. [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2) <br> It's a Youtube Video Playlist that explains about Unix Threads in C. It really help me to understand more things in week 7's lesson <br>
+2. [Critical Section Problem](https://binaryterms.com/critical-section-problem.html) <br> What is critical section problem? How to deal with it? This article will help you to answer above questions. <br>
+3. [Race Conditions and How to Prevent Them - A Look at Dekker's Algorithm](https://www.youtube.com/watch?v=MqnpIwN7dz0) <br> A 7-minutes Youtube video about Race Conditions. It very cute because it use animation while explain the topic precisely. <br>
+

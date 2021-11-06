@@ -93,3 +93,19 @@ ZCZC W06 20 L16 Assignment #06
 ZCZC W06 10 L17 Assignment #07
 ZCZC W06 15 L18 Assignment #08
 ZCZC W06 5 L19 Assignment #09
+ZCZC W07 20 L22 Quiz Week06
+ZCZC W07 60 L01 ZOOM class (Monday)
+ZCZC W07 110 L32 Youtube: OS Week07(M. Anwar Ma'sum)
+ZCZC W07 100 L01 ZOOM class (Thusrday)
+ZCZC W07 60 L06 GSGS about Kernel Error on MacBook after updating macOS
+ZCZC W07 90 L11 Assignment #01
+ZCZC W07 60 L12 Assignment #02
+ZCZC W07 60 L13 Assignment #03
+ZCZC W07 30 L14 Assignment #04
+ZCZC W07 7 L32 Youtube: Race Conditions and How to Prevent Them - A Look at Dekker's Algorithm (Spanning Tree)
+ZCZC W07 120 L32 Youtube: Unix Threads in C (CodeVault)
+ZCZC W07 20 L15 Assignment #05
+ZCZC W07 10 L16 Assignment #06
+ZCZC W07 15 L17 Assignment #07
+ZCZC W07 15 L18 Assignment #08
+ZCZC W07 5 L19 Assignment #09
