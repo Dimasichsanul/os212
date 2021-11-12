@@ -109,3 +109,19 @@ ZCZC W07 10 L16 Assignment #06
 ZCZC W07 15 L17 Assignment #07
 ZCZC W07 15 L18 Assignment #08
 ZCZC W07 5 L19 Assignment #09
+ZCZC W08 20 L22 Quiz Week07
+ZCZC W08 60 L01 ZOOM class (Monday)
+ZCZC W08 63 L32 Youtube: OS Week08(M. Anwar Ma'sum)
+ZCZC W08 100 L01 ZOOM class (Thusrday)
+ZCZC W08 90 L11 Assignment #01
+ZCZC W08 60 L12 Assignment #02
+ZCZC W08 60 L13 Assignment #03
+ZCZC W08 90 L64 Helping OS related problem to a friend.
+ZCZC W08 90 L14 Assignment #04
+ZCZC W08 90 L15 Assignment #05
+ZCZC W08 60 L61 Reinstall Virtual Box
+ZCZC W08 15 L16 Assignment #06
+ZCZC W08 10 L17 Assignment #07
+ZCZC W08 15 L18 Assignment #08
+ZCZC W08 10 L19 Assignment #09
+ZCZC W08 5 L20 Assignment #10

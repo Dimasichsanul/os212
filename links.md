@@ -40,3 +40,8 @@ permalink: /LINKS/
 2. [Critical Section Problem](https://binaryterms.com/critical-section-problem.html) <br> What is critical section problem? How to deal with it? This article will help you to answer above questions. <br>
 3. [Race Conditions and How to Prevent Them - A Look at Dekker's Algorithm](https://www.youtube.com/watch?v=MqnpIwN7dz0) <br> A 7-minutes Youtube video about Race Conditions. It very cute because it use animation while explain the topic precisely. <br>
 
+# Week 8
+1. [CPU Scheduling Playlist](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=36) <br> The concept of CPU Scheduling is a concept in which the computing power of the CPU is divided into several processes, so that our operating system is more productive in processing existing tasks. The video above is interesting because it provides a clear and concise explanation for the basic concept of CPU Scheduling itself. <br>
+2. [6 OS Process Scheduling Algorithms](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm) <br> Scheduling algorithms are generally divided into two categories, namely non-preemptive which cannot be interrupted and preemptive which can be interrupted. The web page above directly provides what the algorithms are, formulas, and an intuitive visualization of each algorithm that can help us learn about it. <br>
+3. [Comparison of Scheduling Algorithms](https://unacademy.com/lesson/comparison-of-scheduling-algorithms/BYKW5NJZ) <br> This video compares all the scheduling algorithms and offers figures, examples, and a clear explanation about each one. It also presents the advantages and disadvantages of each scheduling algorithm. <br>
+
